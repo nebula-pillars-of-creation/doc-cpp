@@ -52,7 +52,7 @@ This guide is structured like a game, with each level representing a new area of
 > Experiment with the code. Don’t be afraid to make mistakes. That’s part of the learning process.
 {style="note"}
 
-```cpp
+```C++
 #include <iostream>
 using namespace std;
 
